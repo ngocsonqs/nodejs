@@ -9,6 +9,7 @@ I. Cài đặt công cụ
 3. [Typescript](https://github.com/pmatam/typescript)
 
 II. Thiết lập project
+
 1. Mở Terminal commands (command line).
 2. Trỏ đến thư mục của project.
 3. Gõ lệnh: npm init và nhập các thông tin cần thiết
@@ -88,6 +89,7 @@ app.listen(port, function () {
 > Lưu ý: để sử dụng được code trên bạn cần cài đặt thêm các package cần thiết.
 
 IV. Cùng build nào :)
+
 > Sau khi build chúng ta sẽ có code được chuyển từ typescript sang javascript trong thư mục build (được config trong file tsconfig.json)
 
 1. Dùng VS Code:
@@ -98,6 +100,7 @@ IV. Cùng build nào :)
 - Nhấn `Cmd+Shift+B` (và từ giờ chỉ cần nhấn là xong, vì đã config rồi).
 
 V. Debug với VS Code
+
 > Lúc này bạn đã có extension để debug (đã cài ở phần I).
 - Chọn mục Debug trên thanh công cụ bên trái.
 - Nhấn vào bánh răng (cài đặt) để tạo file `launch.json`, chọn loại là `Node`.
