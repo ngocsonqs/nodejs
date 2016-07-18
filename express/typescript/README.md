@@ -15,11 +15,15 @@ II. Thiết lập project
 3. Gõ lệnh: npm init và nhập các thông tin cần thiết
 - Lệnh trên sẽ tạo file package.json: là file config các thư việc được sử dụng.
 Dùng lệnh: 
+```
 - npm install <tên package> --save : để cài đặt package
 - npm install <tên package> --save-dev : để cài đặt package với chức năng dev
-4. Dùng lệnh: 
+```
+4. Dùng lệnh:
+``` 
 - tsd install <tên package> --save : để cài đặt package
 - tsd install <tên package> --save-dev : để cài đặt package với chức năng dev
+```
 
 > **Lưu ý cho phần 3 và 4**
 ```
@@ -105,6 +109,7 @@ V. Debug với VS Code
 - Chọn mục Debug trên thanh công cụ bên trái.
 - Nhấn vào bánh răng (cài đặt) để tạo file `launch.json`, chọn loại là `Node`.
 - Thay đổi một số config để có thể debug nhé :).
+
 *với các setup hiện tại, bạn có thể sử dụng phần sau để debug*
 ```json
 {
