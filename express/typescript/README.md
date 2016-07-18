@@ -3,6 +3,7 @@
 > *Hướng dẫn được thực hiện trên MAC OS*
 
 I. Cài đặt công cụ
+
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Node Js](https://github.com/pmatam/nodejs)
 3. [Typescript](https://github.com/pmatam/typescript)
@@ -48,6 +49,7 @@ Vì các package hiện tại là javascript cần được chuyển sang typesc
 ``` 
 
 III. Bắt đầu những dòng code nào ;)
+
 1. Tạo file index.js
 ```js
 "use strict";
